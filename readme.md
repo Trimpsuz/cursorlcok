@@ -16,3 +16,7 @@
 2. How do I change the toggle key?
 
 - Download the code and change it, can't be bothered to make a better way xd
+
+## Contributing
+
+Send PR lol
